@@ -16,18 +16,6 @@ class Mahasiswa extends Seeder
                 'alamat' => 'natar jaya',
                 'created_at' => Time::now(),
             ],
-            [
-                'npm' => '2017051099',
-                'nama'    => 'Mulyono',
-                'alamat' => 'tulung agung',
-                'created_at' => Time::now(),
-            ],
-            [
-                'npm' => '2017051025',
-                'nama'    => 'ALif Renal',
-                'alamat' => 'arab',
-                'created_at' => Time::now(),
-            ],
         ];
 
 
